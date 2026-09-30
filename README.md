@@ -35,13 +35,19 @@ Co-built the resort's first AI guest chatbot, **cutting call center workload 30%
 ### Live from Newark ✈️
 
 <!-- WEATHER:START -->
-_Loading the latest METAR..._
+Newark Liberty (KEWR): **VFR** · wind 360° at 6 kt · visibility 10+ SM · 18°C · altimeter 30.06 inHg
+
+```
+METAR KEWR 300451Z 36006KT 10SM FEW024 OVC033 18/13 A3006 RMK AO2 SLP179 T01780133 402220150 $
+```
+<sub>Updated Sep 30, 05:30Z from aviationweather.gov</sub>
 <!-- WEATHER:END -->
 
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-_Loading..._
+1. ⬆️ Pushed 1 commit to [thongteevee/teevee-random-tool-box](https://github.com/thongteevee/teevee-random-tool-box)
+2. ⬆️ Pushed 1 commit to [thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)
 <!-- ACTIVITY:END -->
 
 ### Stack
