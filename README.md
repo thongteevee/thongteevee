@@ -58,7 +58,7 @@ Co-built the resort's first AI guest chatbot, shipped C# apps on SQL Server, and
 | **[Motion-Triggered Privacy Alert](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)** | MakeNJIT Hackathon. Paired ESP32s talk over ESP-NOW and alert your PC when someone walks in | ESP32, C++, Node.js |
 | **[Digital Roulette Board](https://github.com/thongteevee/digitalMikuRouletteBoard)** | Physical roulette game with keypad input and LCD display. NJIT FED101 final project | Arduino, C++ |
 | **[Weather Viewer](https://github.com/thongteevee/METAR-TAF-Viewer-Weather-Viewer-)** | Live METAR and TAF for any airport by ICAO code | C#, WPF |
-| **[Flappy Miku](https://github.com/thongteevee/flappy-miku)** | Flappy Bird style game built from scratch on HTML canvas, no engine | TypeScript, Vite |
+| **[Flappy Miku](https://github.com/thongteevee/flappy-miku)** | Flappy Bird style game on HTML canvas, no engine. Built from scratch, then enhanced with AI | TypeScript, Vite |
 
 ### Streak
 
