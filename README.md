@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39c5bb,100:e12885&height=110&section=header" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39C5BB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thong;Computer+Engineering+%40+NJIT;Hardware%2C+software%2C+and+the+bugs+in+between" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39C5BB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thong;Computer+Engineering+%40+NJIT;Hardware%2C+software%2C+and+the+bugs+in+between+%E2%99%AA" />
 
 <a href="https://linkedin.com/in/thong-khong"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39c5bb" /></a>
 <a href="mailto:thongtv2006@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e12885" /></a>
@@ -29,6 +31,18 @@ Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft F
 
 **Ocean Casino Resort** · IT Application Development Intern · *Summers 2025 and 2026*<br/>
 Co-built the resort's first AI guest chatbot, **cutting call center workload 30%**. Caught up a test environment **2 years behind production in 1.5 months** by automating it with Playwright, and shipped **5+ production C# apps** on SQL Server.
+
+### Live from Newark ✈️
+
+<!-- WEATHER:START -->
+_Loading the latest METAR..._
+<!-- WEATHER:END -->
+
+### Recent activity
+
+<!-- ACTIVITY:START -->
+_Loading..._
+<!-- ACTIVITY:END -->
 
 ### Stack
 
@@ -74,12 +88,20 @@ Co-built the resort's first AI guest chatbot, **cutting call center workload 30%
   <img src="https://streak-stats.demolab.com/?user=thongteevee&hide_border=true&background=0d1117&ring=39c5bb&fire=e12885&currStreakLabel=39c5bb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
+<details>
+<summary><b>🎶 Track 01: fun facts</b> (click to expand)</summary>
+<br/>
+
+- 🩵 This page runs on two colors: **#39C5BB** and **#E12885**. If you know, you know.
+- 🥬 In Japanese, **3-9** reads as *mi-ku*, and also as *san-kyu* (thank you).
+- 🎮 Two of my projects have Miku in the name. Not a coincidence.
+- 📸 I run a photography business on the side, [TeeVee Fotos](https://www.teeveefotos.com/).
+- 🇻🇳 Cultural Head of the NJIT Vietnamese Student Association.
+
+</details>
+
 ### Open to
 
 Software, embedded, and hardware internships and co-ops.
 
----
-
-<div align="center">
-<sub>Theme color #39C5BB, for those who know 🩵</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e12885,100:39c5bb&height=90&section=footer&text=39!&fontSize=28&fontColor=ffffff&fontAlignY=65" />
