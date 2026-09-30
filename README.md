@@ -42,8 +42,7 @@ status: works on my machine
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thongteevee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39c5bb&icon_color=e12885&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thongteevee&layout=compact&hide_border=true&bg_color=0d1117&title_color=39c5bb&text_color=c9d1d9" />
+  <img src="https://streak-stats.demolab.com/?user=thongteevee&hide_border=true&background=0d1117&ring=39c5bb&fire=e12885&currStreakLabel=39c5bb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
 ### Open to
