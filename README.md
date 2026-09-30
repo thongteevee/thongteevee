@@ -24,7 +24,7 @@ status: works on my machine
 
 ### Experience
 
-**Horizon Simulations** · Project Manager & System Developer · *2024 to present*<br/>
+**[Horizon Simulations](https://github.com/horizonsimulations)** · Project Manager & System Developer · *2024 to present*<br/>
 Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft Flight Simulator. **400,000+** downloads on the 787 and **100,000+** on the 777.
 
 **Ocean Casino Resort** · IT Application Development Intern · *Summers 2025 and 2026*<br/>
@@ -52,7 +52,7 @@ Co-built the resort's first AI guest chatbot, shipped C# apps on SQL Server, and
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Horizon 787](https://horizonsimulations.com/)** · *team* | Boeing 787 avionics for Microsoft Flight Simulator: FMC, autopilot, crew alerting, electrical. 400,000+ downloads | JavaScript, MSFS SDK |
+| **[Horizon 787](https://orbxdirect.com/partner/horizon-simulations)** · *team* | Boeing 787 avionics for Microsoft Flight Simulator: FMC, autopilot, crew alerting, electrical. 400,000+ downloads | JavaScript, MSFS SDK |
 | **[777 Compatibility Mod](https://github.com/horizonsimulations/wlrs-captainsim-compatibility)** · *team* | Open-source systems upgrade for the Captain Sim 777 and 767 in MSFS | TypeScript |
 | **Test Environment Automation** · *work, private* | Playwright scripts that run a hotel system's daily end-of-day cycle hands-free, cutting each cycle from up to 15 min to about 1 min | JavaScript, Playwright |
 | **[Motion-Triggered Privacy Alert](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)** | MakeNJIT Hackathon. Paired ESP32s talk over ESP-NOW and alert your PC when someone walks in | ESP32, C++, Node.js |
