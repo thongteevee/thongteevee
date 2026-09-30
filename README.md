@@ -35,19 +35,21 @@ Co-built the resort's first AI guest chatbot, **cutting call center workload 30%
 ### Live from Newark ✈️
 
 <!-- WEATHER:START -->
-Newark Liberty (KEWR): **VFR** · wind 360° at 6 kt · visibility 10+ SM · 18°C · altimeter 30.06 inHg
+Newark Liberty (KEWR): **VFR** · wind 300° at 4 kt · visibility 10+ SM · 16°C · altimeter 30.13 inHg
 
 ```
-METAR KEWR 300451Z 36006KT 10SM FEW024 OVC033 18/13 A3006 RMK AO2 SLP179 T01780133 402220150 $
+METAR KEWR 301151Z 30004KT 10SM FEW025 FEW250 16/12 A3013 RMK AO2 SLP201 T01610122 10178 20150 53018 $
 ```
-<sub>Updated Sep 30, 05:30Z from aviationweather.gov</sub>
+<sub>Updated Sep 30, 12:32Z from aviationweather.gov</sub>
 <!-- WEATHER:END -->
 
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-1. ⬆️ Pushed 1 commit to [thongteevee/teevee-random-tool-box](https://github.com/thongteevee/teevee-random-tool-box)
-2. ⬆️ Pushed 1 commit to [thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)
+1. ⬆️ Pushed 1 commit to [thongteevee/Website_3_pages](https://github.com/thongteevee/Website_3_pages)
+2. ⬆️ Pushed 1 commit to [thongteevee/flappy-miku](https://github.com/thongteevee/flappy-miku)
+3. ⬆️ Pushed 1 commit to [thongteevee/teevee-random-tool-box](https://github.com/thongteevee/teevee-random-tool-box)
+4. ⬆️ Pushed 1 commit to [thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)
 <!-- ACTIVITY:END -->
 
 ### Stack
