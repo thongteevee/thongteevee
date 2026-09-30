@@ -18,7 +18,7 @@ name: Thong Khong
 studying: B.S. Computer Engineering @ NJIT (Dec 2027)
 building: flight sim avionics, embedded systems, internal tools
 clubs: [IEEE Officer, Claude Builder Club Secretary, VSA Cultural Head]
-languages: [English, Vietnamese, Chinese]
+languages: [English, Vietnamese]
 status: works on my machine
 ```
 
