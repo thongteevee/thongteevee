@@ -32,17 +32,6 @@ Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft F
 **Ocean Casino Resort** · IT Application Development Intern · *Summers 2025 and 2026*<br/>
 Co-built the resort's first AI guest chatbot, **cutting call center workload 30%**. Caught up a test environment **2 years behind production in 1.5 months** by automating it with Playwright, and shipped **5+ production C# apps** on SQL Server.
 
-### Live from Newark ✈️
-
-<!-- WEATHER:START -->
-Newark Liberty (KEWR): **VFR** · wind 300° at 4 kt · visibility 10+ SM · 16°C · altimeter 30.13 inHg
-
-```
-METAR KEWR 301151Z 30004KT 10SM FEW025 FEW250 16/12 A3013 RMK AO2 SLP201 T01610122 10178 20150 53018 $
-```
-<sub>Updated Sep 30, 12:32Z from aviationweather.gov</sub>
-<!-- WEATHER:END -->
-
 ### Recent activity
 
 <!-- ACTIVITY:START -->
