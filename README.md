@@ -32,15 +32,6 @@ Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft F
 **Ocean Casino Resort** · IT Application Development Intern · *Summers 2025 and 2026*<br/>
 Co-built the resort's first AI guest chatbot, **cutting call center workload 30%**. Caught up a test environment **2 years behind production in 1.5 months** by automating it with Playwright, and shipped **5+ production C# apps** on SQL Server.
 
-### Recent activity
-
-<!-- ACTIVITY:START -->
-1. ⬆️ Pushed 1 commit to [thongteevee/Website_3_pages](https://github.com/thongteevee/Website_3_pages)
-2. ⬆️ Pushed 1 commit to [thongteevee/flappy-miku](https://github.com/thongteevee/flappy-miku)
-3. ⬆️ Pushed 1 commit to [thongteevee/teevee-random-tool-box](https://github.com/thongteevee/teevee-random-tool-box)
-4. ⬆️ Pushed 1 commit to [thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team](https://github.com/thongteevee/NJIT_Hackathon_2025_Cherry_Blossom_Team)
-<!-- ACTIVITY:END -->
-
 ### Stack
 
 ![C++](https://img.shields.io/badge/C++-39c5bb?style=flat-square&logo=cplusplus&logoColor=white)
