@@ -61,7 +61,14 @@ Co-built the resort's first AI guest chatbot, **cutting call center workload 30%
 | **[Weather Viewer](https://github.com/thongteevee/METAR-TAF-Viewer-Weather-Viewer-)** | Live METAR and TAF for any airport by ICAO code | C#, WPF |
 | **[Flappy Miku](https://github.com/thongteevee/flappy-miku)** | Flappy Bird style game on HTML canvas, no engine. Built from scratch, then enhanced with AI | TypeScript, Vite |
 
-### Streak
+### Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thongteevee/thongteevee/output/snake-dark.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thongteevee/thongteevee/output/snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=thongteevee&hide_border=true&background=0d1117&ring=39c5bb&fire=e12885&currStreakLabel=39c5bb&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
