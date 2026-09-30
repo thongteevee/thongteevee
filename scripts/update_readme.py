@@ -1,17 +1,11 @@
-"""Refresh the live sections of the profile README.
-
-- KEWR weather: latest METAR from the aviationweather.gov Data API
-- Recent activity: latest public GitHub events for the profile owner
-"""
+"""Refresh the recent activity section of the profile README."""
 import json
 import os
 import re
 import urllib.request
-from datetime import datetime, timezone
 
 README = "README.md"
 USER = os.environ.get("GH_USER", "thongteevee")
-STATION = "KEWR"
 UA = {"User-Agent": f"{USER}-profile-readme"}
 
 
@@ -24,37 +18,6 @@ def get_json(url, headers=None):
 def replace_section(text, name, body):
     pattern = re.compile(rf"(<!-- {name}:START -->)(.*?)(<!-- {name}:END -->)", re.S)
     return pattern.sub(lambda m: f"{m.group(1)}\n{body}\n{m.group(3)}", text)
-
-
-def weather_section():
-    data = get_json(f"https://aviationweather.gov/api/data/metar?ids={STATION}&format=json")
-    if not data:
-        raise ValueError("no METAR returned")
-    m = data[0]
-    parts = []
-    cat = m.get("fltCat")
-    if cat:
-        parts.append(f"**{cat}**")
-    wdir, wspd, wgst = m.get("wdir"), m.get("wspd"), m.get("wgst")
-    if wspd is not None:
-        if wspd == 0:
-            wind = "calm"
-        else:
-            d = "variable" if wdir in (None, "VRB") else f"{int(wdir):03d}°"
-            wind = f"{d} at {wspd} kt" + (f", gusting {wgst}" if wgst else "")
-        parts.append(f"wind {wind}")
-    if m.get("visib") is not None:
-        parts.append(f"visibility {m['visib']} SM")
-    if m.get("temp") is not None:
-        parts.append(f"{round(m['temp'])}°C")
-    if m.get("altim") is not None:
-        parts.append(f"altimeter {m['altim'] * 0.02953:.2f} inHg")
-    stamp = datetime.now(timezone.utc).strftime("%b %d, %H:%MZ")
-    return (
-        f"Newark Liberty ({STATION}): " + " · ".join(parts) + "\n\n"
-        f"```\n{m.get('rawOb', '').strip()}\n```\n"
-        f"<sub>Updated {stamp} from aviationweather.gov</sub>"
-    )
 
 
 def describe(e):
@@ -105,7 +68,7 @@ def activity_section():
 
 def main():
     text = open(README, encoding="utf-8").read()
-    for name, fn in (("WEATHER", weather_section), ("ACTIVITY", activity_section)):
+    for name, fn in (("ACTIVITY", activity_section),):
         try:
             text = replace_section(text, name, fn())
         except Exception as exc:  # keep the last good content if a source is down
