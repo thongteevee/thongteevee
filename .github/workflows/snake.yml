@@ -13,9 +13,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        id: snk
+        uses: Platane/snk@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#e12885&color_dots=#ebedf0,#b8ede8,#7fd9d0,#4fc9bd,#2a9d93
+            dist/snake-dark.svg?color_snake=#e12885&color_dots=#161b22,#0e4c47,#1a7a72,#2aa198,#39c5bb
+
+      - name: Wait before retry
+        if: steps.snk.outcome == 'failure'
+        run: sleep 90
+
+      - name: Retry generate snake
+        if: steps.snk.outcome == 'failure'
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
