@@ -27,7 +27,7 @@ status: works on my machine
 ### Experience
 
 **[Horizon Simulations](https://github.com/horizonsimulations)** · Project Manager & System Developer · *2024 to present*<br/>
-Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft Flight Simulator. **400,000+** downloads on the 787 and **100,000+** on the 777.
+Avionics simulations (FMC, autopilot, crew alerting, electrical) for Microsoft Flight Simulator. **600,000+** downloads on the 787 and **120,000+** on the 777.
 
 **Ocean Casino Resort** · IT Application Development Intern · *Summers 2025 and 2026*<br/>
 Co-built the resort's first AI guest chatbot, **cutting call center workload 30%**. Caught up a test environment **2 years behind production in 1.5 months** by automating it with Playwright, and shipped **5+ production C# apps** on SQL Server.
